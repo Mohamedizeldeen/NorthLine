@@ -12,7 +12,11 @@
   "description": "my company website",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "nodemon index.js"
+=======
+    "start": "node index.js"
+>>>>>>> 0ed644d61c8270cc2c6d355ee6c8817a4c2d071c
   },
   "repository": {
     "type": "git",
