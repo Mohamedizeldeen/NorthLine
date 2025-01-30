@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "name": "northline",
+  "version": "1.0.0",
+  "description": "my company website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamedizeldeen/NorthLine.git"
+  },
+  "author": "Mohamed izeldeen - Ahmed Alsir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamedizeldeen/NorthLine/issues"
+  },
+  "homepage": "https://github.com/Mohamedizeldeen/NorthLine#readme"
+}
